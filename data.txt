@@ -1,0 +1,68 @@
+{
+    "location": [
+      {
+    "name": "london",
+    "region": "City of London, Greater London",
+    "country": "United Kingdom",
+    "temp_c": 11,
+    "temp_f": 51.8,
+    "feelslike_c": 29
+  },
+    {
+    "name": "kolkata",
+    "region": "City of London, Greater London",
+    "country": "Nigeria",
+    "temp_c": 23,
+    "temp_f": 51.8,
+    "feelslike_c": 56
+  },
+    {
+    "name": "pakistan",
+    "region": "City of London, Greater London",
+    "country": "china",
+    "temp_c": 34,
+    "temp_f": 51.8,
+    "feelslike_c": 40
+  },
+    {
+    "name": "washington",
+    "region": "City of London, Greater London",
+    "country": "USA",
+    "temp_c": 13,
+    "temp_f": 51.8,
+    "feelslike_c": 23
+  },
+    {
+    "name": "bihar",
+    "region": "City of London, Greater London",
+    "country": "France",
+    "temp_c": 12,
+    "temp_f": 51.8,
+    "feelslike_c": 17
+  },
+    {
+    "name": "patna",
+    "region": "City of London, Greater London",
+    "country": "United Kingdom",
+    "temp_c": 50,
+    "temp_f": 51.8,
+    "feelslike_c": 55
+  },
+    {
+    "name": "motihari",
+    "region": "City of London, Greater London",
+    "country": "bihar",
+    "temp_c": 15,
+    "temp_f": 51.8,
+    "feelslike_c": 29
+  },
+    {
+    "name": "delhi",
+    "region": "City of London, Greater London",
+    "country": "India",
+    "temp_c": 40,
+    "temp_f": 51.8,
+    "feelslike_c": 49
+  }]
+}
+        
